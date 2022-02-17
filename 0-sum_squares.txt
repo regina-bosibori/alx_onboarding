@@ -1,0 +1,4 @@
+Given inputs a,b,c
+Do a square of all the values 
+add the values
+return output at the end of the squares
